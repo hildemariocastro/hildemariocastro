@@ -4,7 +4,7 @@
 
 ### Olá! 👋 Seja muito bem-vindo(a) ao meu perfil!
 
-Doutorando e Mestre em Recursos Pesqueiros e Aquicultura pela **Universidade Federal Rural de Pernambuco (UFRPE)**, graduado em Engenharia de Pesca e atualmente cursando computação na mesma instituição. Baseado em Recife, Pernambuco, atuo na interseção entre a ciência pesqueira, análise de dados e o desenvolvimento de software.
+ Atualmente cursando **computação** pela **Universidade Federal Rural de Pernambuco (UFRPE)** .Doutorando e Mestre em Recursos Pesqueiros e Aquicultura pela mesma instituição, graduado em Engenharia de Pesca. Baseado em Recife, Pernambuco, atuo na interseção entre a ciência pesqueira, análise de dados e o desenvolvimento de software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hildemario-castro-57942a353)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hildemariocastro)
