@@ -6,9 +6,11 @@
 
 Doutorando e Mestre em Recursos Pesqueiros e Aquicultura pela **Universidade Federal Rural de Pernambuco (UFRPE)**, graduado em Engenharia de Pesca e atualmente cursando computação na mesma instituição. Baseado em Recife, Pernambuco, atuo na interseção entre a ciência pesqueira, análise de dados e o desenvolvimento de software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hildemario-castro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hildemario-castro-57942a353)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hildemariocastro)
-
+[![Lattes](https://img.shields.io/badge/Currículo-Lattes-0072C6?style=for-the-badge&logo=academia&logoColor=white)](https://lattes.cnpq.br/3502608249040418)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Hildemario-Castro-Neto-2?ev=hdr_xpr)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hildemarioocastro@gmail.com)
 ---
 
 ### 💻 Tecnologias, Ferramentas e Competências
